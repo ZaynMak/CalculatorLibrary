@@ -1,3 +1,3 @@
 # CalculatorLibrary
 
-Simple calculator functions (add - subtract - multiply - divide) using continuous integration.
+Simple calculator functions (add - subtract - multiply - divide) built using continuous integration.
